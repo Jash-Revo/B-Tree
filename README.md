@@ -4,3 +4,4 @@ compile:g++ -o "B+Tree.exe" "B+ Tree.cpp" "display.cpp" "insertion.cpp" "remove.
 
 run:./B+Tree.exe
 
+Inputs: name,age,sex,mobile no,hobby
